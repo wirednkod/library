@@ -21,10 +21,6 @@ directory:
     description: Overlay Provider and UI component for modals and overlaying content.
     doc: https://polkadot.cloud/overlay
 
-  - name: Charts
-    description: Light-weight charts for displaying simple statistics.
-    doc: https://polkadot.cloud/charts
-
 npm:
   title: "Polkadot Cloud: React"
   contents:
